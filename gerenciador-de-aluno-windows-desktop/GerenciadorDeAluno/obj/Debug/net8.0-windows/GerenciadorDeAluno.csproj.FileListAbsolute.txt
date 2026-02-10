@@ -1,0 +1,108 @@
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\appsettings.json
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.exe
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.deps.json
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.runtimeconfig.json
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.pdb
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\Npgsql.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.csproj.AssemblyReference.cache
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.Form1.resources
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.Properties.Resources.resources
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.csproj.GenerateResource.cache
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.AssemblyInfoInputs.cache
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.AssemblyInfo.cs
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.csproj.CoreCompileInputs.cache
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\Gerencia.7AD117E2.Up2Date
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\refint\GerenciadorDeAluno.dll
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.pdb
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.genruntimeconfig.cache
+D:\Desktop\GerenciadorDeAluno - Copia\GerenciadorDeAluno\obj\Debug\net8.0-windows\ref\GerenciadorDeAluno.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\appsettings.json
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.exe
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.deps.json
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.runtimeconfig.json
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.pdb
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\Npgsql.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.csproj.AssemblyReference.cache
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.Form1.resources
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.Properties.Resources.resources
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.csproj.GenerateResource.cache
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.AssemblyInfoInputs.cache
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.AssemblyInfo.cs
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.csproj.CoreCompileInputs.cache
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\Gerencia.7AD117E2.Up2Date
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\refint\GerenciadorDeAluno.dll
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.pdb
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.genruntimeconfig.cache
+D:\Desktop\GerenciadorDeAluno\GerenciadorDeAluno\obj\Debug\net8.0-windows\ref\GerenciadorDeAluno.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\appsettings.json
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.exe
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.deps.json
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.runtimeconfig.json
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\GerenciadorDeAluno.pdb
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\Npgsql.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.csproj.AssemblyReference.cache
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.Form1.resources
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.Properties.Resources.resources
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.csproj.GenerateResource.cache
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.AssemblyInfoInputs.cache
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.AssemblyInfo.cs
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.csproj.CoreCompileInputs.cache
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\Gerencia.7AD117E2.Up2Date
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\refint\GerenciadorDeAluno.dll
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.pdb
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\GerenciadorDeAluno.genruntimeconfig.cache
+D:\Desktop\gerenciador-de-aluno-windows-desktop\GerenciadorDeAluno\obj\Debug\net8.0-windows\ref\GerenciadorDeAluno.dll
