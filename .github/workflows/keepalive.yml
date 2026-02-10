@@ -17,11 +17,12 @@ jobs:
 
       - name: Update heartbeat
         run: |
-          PGPASSWORD=${{ secrets.DB_PASSWORD }} \
-          psql \
-            "host=${{ secrets.DB_HOST }} \
-           port=${{ secrets.DB_PORT }} \
-           dbname=${{ secrets.DB_NAME }} \
-           user=${{ secrets.DB_USER }} \
-           sslmode=${{ secrets.DB_SSLMODE }}" \
-          -c "UPDATE heartbeat SET last_ping = NOW() WHERE id = 1;"
+          set -e
+          PGPASSWORD=${{ secrets.DB_PASSWORD }} psql \
+            -h ${{ secrets.DB_HOST}} \
+            -p ${{ secrets.DB_PORT }} \
+            -d ${{ secrets.DB_NAME }} \
+            -U ${{ secrets.DB_USER }} \
+            -c "UPDATE heartbeat SET last_ping = NOW() WHERE id = 1;"
+        env:
+          PGSSLMODE: ${{ secrets.DB_SSLMODE }}
