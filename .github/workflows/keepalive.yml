@@ -1,8 +1,8 @@
-name: Keep Supabase Alive
+name: Supabase Heartbeat
 
 on:
   schedule:
-    - cron: "0 3 * * *" 
+    - cron: "0 0 */2 * *"
   workflow_dispatch:
 
 jobs:
@@ -10,15 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Install PostgreSQL client
+      - name: Ping Supabase via RPC
         run: |
-          sudo apt-get update
-          sudo apt-get install -y postgresql-client
-
-      - name: Update heartbeat via Supabase RPC
-        run: |
-          curl -X POST \
-          "${{ secrets.SUPABASE_URL }}/rest/v1/rpc/update_heartbeat" \
+          curl -X POST "${{ secrets.SUPABASE_URL }}/rest/v1/rpc/update_heartbeat" \
           -H "apikey: ${{ secrets.SUPABASE_ANON_KEY }}" \
           -H "Authorization: Bearer ${{ secrets.SUPABASE_ANON_KEY }}" \
           -H "Content-Type: application/json" \
