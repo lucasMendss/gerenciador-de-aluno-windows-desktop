@@ -15,14 +15,11 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y postgresql-client
 
-      - name: Update heartbeat
+      - name: Update heartbeat via Supabase RPC
         run: |
-          set -e
-          PGPASSWORD=${{ secrets.DB_PASSWORD }} psql \
-            -h ${{ secrets.DB_HOST}} \
-            -p ${{ secrets.DB_PORT }} \
-            -d ${{ secrets.DB_NAME }} \
-            -U ${{ secrets.DB_USER }} \
-            -c "UPDATE heartbeat SET last_ping = NOW() WHERE id = 1;"
-        env:
-          PGSSLMODE: ${{ secrets.DB_SSLMODE }}
+          curl -X POST \
+          "${{ secrets.SUPABASE_URL }}/rest/v1/rpc/update_heartbeat" \
+          -H "apikey: ${{ secrets.SUPABASE_ANON_KEY }}" \
+          -H "Authorization: Bearer ${{ secrets.SUPABASE_ANON_KEY }}" \
+          -H "Content-Type: application/json" \
+          -d '{}'
