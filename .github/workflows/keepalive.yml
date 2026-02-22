@@ -2,7 +2,7 @@ name: Supabase Heartbeat
 
 on:
   schedule:
-    - cron: "19 3 * * *" # todos os dias
+    - cron: "19 3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Ping Supabase via RPC
+      - name: Call Supabase Edge Function
         run: |
-          curl -X POST "${{ secrets.SUPABASE_URL }}/rest/v1/rpc/update_heartbeat" \
-          -H "apikey: ${{ secrets.SUPABASE_ANON_KEY }}" \
-          -H "Authorization: Bearer ${{ secrets.SUPABASE_ANON_KEY }}" \
-          -H "Content-Type: application/json" \
-          -d '{}'
+          curl -L -X POST "${{ secrets.SUPABASE_FUNCTION_URL }}" \
+            -H "Authorization: Bearer ${{ secrets.SUPABASE_PUBLISHABLE_DEFAULT_KEY }}" \
+            -H "apikey: ${{ secrets.SUPABASE_PUBLISHABLE_DEFAULT_KEY }}" \
+            -H "Content-Type: application/json" \
+            --data '{"name":"heartbeat"}'
