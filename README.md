@@ -10,7 +10,7 @@ Permite consulta de um aluno por vez através de Prontuário, CPF, RG ou E-mail 
 
 - **C# / .NET 8**
 - **Windows Forms**
-- **PostgreSQL (Supabase)**
+- **PostgreSQL (Constraints, permissões de Roles, Edge Function)**
 - **Github Actions**
 
 ---
