@@ -128,7 +128,7 @@ namespace GerenciadorDeAluno
         }
         private void btnGerarProntuario_Click(object sender, EventArgs e)
         {
-            var random = new Random();              
+            var random = new Random();
             string prontuario = "RA" + (random.Next(1000000, 9999999)).ToString();
             txtProntuario.Clear();
             txtProntuario.Text = prontuario;
@@ -347,6 +347,17 @@ namespace GerenciadorDeAluno
             {
                 btnConsultar.Enabled = true;
             }
+        }
+
+        public void DefinirConsulta(string texto)
+        {
+            txtConsulta.Text = texto;
+        }
+
+        private void btnListarProntuarios_Click(object sender, EventArgs e)
+        {
+            var formProntuario = new FormProntuarios(this);
+            formProntuario.Show();
         }
     }
 }

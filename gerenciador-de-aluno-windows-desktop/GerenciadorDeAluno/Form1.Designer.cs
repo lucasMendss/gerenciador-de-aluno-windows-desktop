@@ -54,6 +54,7 @@
             txtConsulta = new TextBox();
             btnConsultar = new Button();
             gbCamposConsulta = new GroupBox();
+            btnListarProntuarios = new Button();
             gbCampos.SuspendLayout();
             gbCamposConsulta.SuspendLayout();
             SuspendLayout();
@@ -86,13 +87,13 @@
             txtProntuario.MaxLength = 9;
             txtProntuario.Name = "txtProntuario";
             txtProntuario.ReadOnly = true;
-            txtProntuario.Size = new Size(383, 23);
+            txtProntuario.Size = new Size(445, 23);
             txtProntuario.TabIndex = 2;
             txtProntuario.TextChanged += txtProntuario_TextChanged;
             // 
             // btnLimpar
             // 
-            btnLimpar.Location = new Point(18, 326);
+            btnLimpar.Location = new Point(18, 340);
             btnLimpar.Name = "btnLimpar";
             btnLimpar.Size = new Size(235, 23);
             btnLimpar.TabIndex = 3;
@@ -113,9 +114,9 @@
             gbCampos.Controls.Add(label4);
             gbCampos.Controls.Add(txtNome);
             gbCampos.Controls.Add(label2);
-            gbCampos.Location = new Point(18, 87);
+            gbCampos.Location = new Point(18, 101);
             gbCampos.Name = "gbCampos";
-            gbCampos.Size = new Size(585, 233);
+            gbCampos.Size = new Size(643, 233);
             gbCampos.TabIndex = 4;
             gbCampos.TabStop = false;
             gbCampos.Text = "Campos (informe dados fictícios, e não seus dados reais):";
@@ -123,7 +124,7 @@
             // btnGerarProntuario
             // 
             btnGerarProntuario.Enabled = false;
-            btnGerarProntuario.Location = new Point(471, 30);
+            btnGerarProntuario.Location = new Point(533, 29);
             btnGerarProntuario.Name = "btnGerarProntuario";
             btnGerarProntuario.Size = new Size(100, 23);
             btnGerarProntuario.TabIndex = 17;
@@ -138,7 +139,7 @@
             txtEmail.MaxLength = 100;
             txtEmail.Name = "txtEmail";
             txtEmail.ReadOnly = true;
-            txtEmail.Size = new Size(489, 23);
+            txtEmail.Size = new Size(551, 23);
             txtEmail.TabIndex = 16;
             // 
             // label5
@@ -156,7 +157,7 @@
             txtRG.MaxLength = 9;
             txtRG.Name = "txtRG";
             txtRG.ReadOnly = true;
-            txtRG.Size = new Size(489, 23);
+            txtRG.Size = new Size(551, 23);
             txtRG.TabIndex = 14;
             // 
             // label3
@@ -174,7 +175,7 @@
             txtCPF.MaxLength = 11;
             txtCPF.Name = "txtCPF";
             txtCPF.ReadOnly = true;
-            txtCPF.Size = new Size(489, 23);
+            txtCPF.Size = new Size(551, 23);
             txtCPF.TabIndex = 12;
             txtCPF.TextChanged += txtCPF_TextChanged;
             // 
@@ -193,7 +194,7 @@
             txtNome.Location = new Point(82, 69);
             txtNome.Name = "txtNome";
             txtNome.ReadOnly = true;
-            txtNome.Size = new Size(489, 23);
+            txtNome.Size = new Size(551, 23);
             txtNome.TabIndex = 10;
             // 
             // label2
@@ -246,7 +247,7 @@
             // btnAcao
             // 
             btnAcao.Enabled = false;
-            btnAcao.Location = new Point(369, 326);
+            btnAcao.Location = new Point(427, 340);
             btnAcao.Name = "btnAcao";
             btnAcao.Size = new Size(234, 23);
             btnAcao.TabIndex = 8;
@@ -259,7 +260,7 @@
             // 
             lblStatus.AutoSize = true;
             lblStatus.Font = new Font("Segoe UI", 6.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblStatus.Location = new Point(18, 357);
+            lblStatus.Location = new Point(18, 371);
             lblStatus.Name = "lblStatus";
             lblStatus.Size = new Size(169, 12);
             lblStatus.TabIndex = 17;
@@ -289,7 +290,7 @@
             // label7
             // 
             label7.AutoSize = true;
-            label7.Location = new Point(198, 19);
+            label7.Location = new Point(231, 20);
             label7.Name = "label7";
             label7.Size = new Size(96, 15);
             label7.TabIndex = 17;
@@ -298,10 +299,10 @@
             // txtConsulta
             // 
             txtConsulta.CharacterCasing = CharacterCasing.Upper;
-            txtConsulta.Location = new Point(300, 15);
+            txtConsulta.Location = new Point(333, 16);
             txtConsulta.MaxLength = 9;
             txtConsulta.Name = "txtConsulta";
-            txtConsulta.Size = new Size(238, 23);
+            txtConsulta.Size = new Size(261, 23);
             txtConsulta.TabIndex = 18;
             txtConsulta.TextChanged += txtConsulta_TextChanged;
             // 
@@ -311,7 +312,7 @@
             btnConsultar.BackgroundImageLayout = ImageLayout.Stretch;
             btnConsultar.Enabled = false;
             btnConsultar.ImageAlign = ContentAlignment.BottomCenter;
-            btnConsultar.Location = new Point(544, 14);
+            btnConsultar.Location = new Point(600, 15);
             btnConsultar.Name = "btnConsultar";
             btnConsultar.Size = new Size(25, 23);
             btnConsultar.TabIndex = 19;
@@ -327,16 +328,27 @@
             gbCamposConsulta.Controls.Add(lbOpcoesConsulta);
             gbCamposConsulta.Location = new Point(32, 37);
             gbCamposConsulta.Name = "gbCamposConsulta";
-            gbCamposConsulta.Size = new Size(571, 44);
+            gbCamposConsulta.Size = new Size(629, 48);
             gbCamposConsulta.TabIndex = 20;
             gbCamposConsulta.TabStop = false;
+            // 
+            // btnListarProntuarios
+            // 
+            btnListarProntuarios.Location = new Point(495, 12);
+            btnListarProntuarios.Name = "btnListarProntuarios";
+            btnListarProntuarios.Size = new Size(166, 23);
+            btnListarProntuarios.TabIndex = 20;
+            btnListarProntuarios.Text = "Ver lista de prontuários";
+            btnListarProntuarios.UseVisualStyleBackColor = true;
+            btnListarProntuarios.Click += btnListarProntuarios_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.AppWorkspace;
-            ClientSize = new Size(610, 379);
+            ClientSize = new Size(669, 390);
+            Controls.Add(btnListarProntuarios);
             Controls.Add(gbCamposConsulta);
             Controls.Add(lblStatus);
             Controls.Add(btnAcao);
@@ -346,6 +358,7 @@
             Controls.Add(gbCampos);
             Controls.Add(btnLimpar);
             Controls.Add(rbConsultar);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "Form1";
@@ -387,5 +400,6 @@
         private Button btnConsultar;
         private GroupBox gbCamposConsulta;
         private Button btnGerarProntuario;
+        private Button btnListarProntuarios;
     }
 }
