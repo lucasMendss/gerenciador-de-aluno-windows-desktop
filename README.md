@@ -1,4 +1,4 @@
-# 📦 Gerenciador de Alunos
+# Gerenciador de Alunos
 
 Aplicativo desktop desenvolvido em **Windows Forms (.NET 8)**  com foco em orientação a objetos, banco de dados relacional, organização de código, interface e experiência do usuário. 
 
@@ -6,7 +6,7 @@ Permite consulta de um aluno por vez através de Prontuário, CPF, RG ou E-mail 
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **C# / .NET 8**
 - **Windows Forms**
@@ -15,7 +15,7 @@ Permite consulta de um aluno por vez através de Prontuário, CPF, RG ou E-mail 
 
 ---
 
-## 🖥️ Requisitos do Sistema
+## Requisitos do Sistema
 
 - **Windows 10** ou **Windows 11**
 - Arquitetura de processador **x64**
@@ -23,7 +23,7 @@ Permite consulta de um aluno por vez através de Prontuário, CPF, RG ou E-mail 
 
 ---
 
-## 📥 Instalação
+## Instalação
 
 1. Baixe o arquivo instalador (`setup-instalacao-gerenciador-de-aluno.exe`)
 2. Execute o instalador
@@ -33,9 +33,9 @@ Permite consulta de um aluno por vez através de Prontuário, CPF, RG ou E-mail 
 * *O Desktop Runtime é um pacote da Microsoft que fornece os arquivos e bibliotecas necessários para executar aplicativos de desktop no Windows.
 ---
 
-## 🗄️ Infraestrutura e Banco de Dados
+## Infraestrutura e Banco de Dados
 
-### ⚠️ Importante (leia antes)
+### Importante
 
 Este projeto utiliza um **banco de dados público e descartável**, criado exclusivamente para fins de **demonstração**. Para viabilizar a experiência *“baixar → instalar → usar”*, a aplicação contém credenciais de acesso a essa base de dados.
 
